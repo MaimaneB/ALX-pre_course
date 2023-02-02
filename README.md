@@ -1,1 +1,6 @@
-My first readme
+git add.
+
+q
+
+git add .
+cd
